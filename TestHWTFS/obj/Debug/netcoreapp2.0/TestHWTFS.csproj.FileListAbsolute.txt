@@ -1,0 +1,11 @@
+D:\Projects\TestHWTFS\TestHWTFS\TestHWTFS\bin\Debug\netcoreapp2.0\TestHWTFS.deps.json
+D:\Projects\TestHWTFS\TestHWTFS\TestHWTFS\bin\Debug\netcoreapp2.0\TestHWTFS.runtimeconfig.json
+D:\Projects\TestHWTFS\TestHWTFS\TestHWTFS\bin\Debug\netcoreapp2.0\TestHWTFS.runtimeconfig.dev.json
+D:\Projects\TestHWTFS\TestHWTFS\TestHWTFS\bin\Debug\netcoreapp2.0\TestHWTFS.dll
+D:\Projects\TestHWTFS\TestHWTFS\TestHWTFS\bin\Debug\netcoreapp2.0\TestHWTFS.pdb
+D:\Projects\TestHWTFS\TestHWTFS\TestHWTFS\obj\Debug\netcoreapp2.0\TestHWTFS.csprojAssemblyReference.cache
+D:\Projects\TestHWTFS\TestHWTFS\TestHWTFS\obj\Debug\netcoreapp2.0\TestHWTFS.csproj.CoreCompileInputs.cache
+D:\Projects\TestHWTFS\TestHWTFS\TestHWTFS\obj\Debug\netcoreapp2.0\TestHWTFS.AssemblyInfoInputs.cache
+D:\Projects\TestHWTFS\TestHWTFS\TestHWTFS\obj\Debug\netcoreapp2.0\TestHWTFS.AssemblyInfo.cs
+D:\Projects\TestHWTFS\TestHWTFS\TestHWTFS\obj\Debug\netcoreapp2.0\TestHWTFS.dll
+D:\Projects\TestHWTFS\TestHWTFS\TestHWTFS\obj\Debug\netcoreapp2.0\TestHWTFS.pdb
